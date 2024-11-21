@@ -48,6 +48,8 @@ This project involves analyzing a healthcare dataset to uncover trends in patien
 
 2. **Gender Distribution**  
    The gender distribution is almost symmetrical between women and men, with women representing 50.05% and men representing 49.95%.
+
+
    ![Screenshot 2024-11-20 195824](https://github.com/user-attachments/assets/2f5c91d8-e1c5-4a3a-8d85-ce0fc0b98d7e)
 
 
@@ -56,6 +58,30 @@ This project involves analyzing a healthcare dataset to uncover trends in patien
    - **Late adulthood (+65 years old)**
    - **Young adulthood (30-39 years old)**
    - **Adolescence (13-19 years old)**
+
+
 ![Screenshot 2024-11-20 195913](https://github.com/user-attachments/assets/2c03fe8c-0d0f-4034-9f1e-1f920d039e4e)
 
    
+**Medical Conditions and Treatments**  
+   The dataset includes patients with the following medical conditions:
+   - Arthritis
+   - Diabetes
+   - Hypertension
+   - Obesity
+   - Asthma
+   - Cancer
+
+![Screenshot 2024-11-20 200408](https://github.com/user-attachments/assets/1403ed2a-d7ec-48a9-b3c6-5878410bcfe5)
+
+** Illness Distribution Across Age Group
+
+![Screenshot 2024-11-20 200434](https://github.com/user-attachments/assets/77205ac9-5759-4262-a3a3-c5567ec46c70)
+
+   These conditions were treated with the following medications:
+   - **Aspirin**
+   - **Ibuprofen**
+   - **Lipitor**
+   - **Paracetamol**
+   - **Penicillin**
+![Screenshot 2024-11-20 200441](https://github.com/user-attachments/assets/219361cf-df71-48bb-b74d-48d4ecd8c8c5)
